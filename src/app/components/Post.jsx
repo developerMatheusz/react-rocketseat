@@ -3,7 +3,9 @@ import profile from "../assets/profile.svg";
 import { Comment } from "./Comment";
 import { Avatar } from "./Avatar";
 
-export function Post() {
+export function Post(props) {
+
+    console.log(props);
 
     return(
 
