@@ -1,9 +1,0 @@
--- React.js é uma biblioteca de componentes visuais escrita em JavaScript
-
--- Essa biblioteca pode rodar em qualquer lugar que execute React
-
--- Existem frameworks que utilizam React.js por baixo dos panos como por exemplo o Next.js
-
--- React.js utiliza o conceito de SPA (Single Page Application)
-
--- React.js consome dados do back-end utilizando o JSON
