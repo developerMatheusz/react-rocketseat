@@ -54,7 +54,7 @@ export function App() {
                   content={post.content} 
                   publishedAt={post.publishedAt}
                 />
-              )
+              );
             })
           }
         </main>
