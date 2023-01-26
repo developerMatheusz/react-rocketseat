@@ -1,3 +1,4 @@
+![Logo do R](https://www.iconfinder.com/icons/7423888/download/png/48)
 # Fundamentos do ReactJS
 > Uma biblioteca de componentes JavaScript
 ## O que é ReactJS?
