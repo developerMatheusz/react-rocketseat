@@ -1,6 +1,6 @@
 # Fundamentos do ReactJS
 
-<img src="/public/image1.png" width="500px;" height="500px;" alt="Foto de perfil">
+<img src="/public/image1.png" width="600px;" height="400px;" alt="Foto de perfil">
 
 > Projeto que visa mostrar os fundamentos da biblioteca JavaScript chamado ReactJS. Baseado no curso em vídeo da plataforma Rocketseat.
 
@@ -36,7 +36,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
+      <a href="#" title="Minha foto de perfil">
         <img src="/public/image1.png" width="100px;" alt="Foto do Matheus Zanela no GitHub"/><br>
         <sub>
           <b>Matheus Zanela</b>
