@@ -1,13 +1,57 @@
-![Logo do R](https://www.iconfinder.com/icons/7423888/download/png/48)
 # Fundamentos do ReactJS
-> Uma biblioteca de componentes JavaScript
-## O que é ReactJS?
-ReactJS nada mais é do que uma biblioteca de componentes JavaScript, utilizada para criar aplicações Single Pages (SPA's).
-Com sua infraestrutura baseada em JavaScript, o React consegue renderizar todo conteúdo html e css apenas com códigos em JS.
 
-Essa biblioteca funciona sob uma div com algum tipo de ID que renderiza ao lado do cliente, porém, só é executado caso o JS esteja habilitado.
-Sendo uma tecnologia Client Side Rendering (CSR), o ReactJS por si só é normalmente utilizado em aplicações que não necessitem de indexadores do navegador.
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-Caso necessite, a melhor solução é utilizar algum tipo de framework ou cujo objetivo é criar um servidor back-end com o sistema de Server Side Rendering (SSR).
-A solução do React é extremamente formidável e pode ser executada em qualquer lugar que suporte seu core, até mesmo em ambientes Mobile.
-Este repositório contém um projeto React criado com a ferramenta Vite, uma tecnologia utilizada para criar projetos React (front-end).
+<img src="/public/image1.png" alt="Foto de perfil">
+
+> Projeto que visa mostrar os fundamentos da biblioteca JavaScript chamado ReactJS. Baseado no curso em vídeo da plataforma Rocketseat.
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Você instalou a versão mais recente de `<NodeJS / NPM>`
+- Este projeto funciona em `<Windows / Linux / Mac>`.
+
+## 🚀 Instalando Fundamentos do ReactJS
+
+Para instalar o Fundamentos do ReactJS, siga estas etapas:
+
+Linux, macOS e Windows:
+
+```
+npm i
+```
+
+## ☕ Usando Fundamentos do ReactJS
+
+Para usar Fundamentos do ReactJS, siga estas etapas:
+
+```
+npm run dev
+```
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="/public/image1.png" width="100px;" alt="Foto do Matheus Zanela no GitHub"/><br>
+        <sub>
+          <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
